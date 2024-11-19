@@ -1,0 +1,20 @@
+[
+    {
+        "Reservoir": "OROVILLE",
+        "Total_TAF": 18000,
+        "Entries_Received": 9,
+        "Date": "2024-11-18"
+    },
+    {
+        "Reservoir": "SHASTA",
+        "Total_TAF": 24518,
+        "Entries_Received": 9,
+        "Date": "2024-11-18"
+    },
+    {
+        "Reservoir": "SONOMA",
+        "Total_TAF": 1732,
+        "Entries_Received": 9,
+        "Date": "2024-11-18"
+    }
+]
